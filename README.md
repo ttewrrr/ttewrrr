@@ -1,2 +1,1 @@
- Hi, I’m @ttewrrr
- I'm a Developer!
+Developing Lua/C++ based stuff.
